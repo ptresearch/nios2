@@ -42,3 +42,6 @@ The value of the global pointer in the gp register is determined in the backgrou
 ## Author
 Anton Dorfman ADorfman@ptsecurity.com (Positive Technologies)
 
+## Contributor
+[Blue DeviL // SCT](http://gitlab.com/bluedevil)
+
