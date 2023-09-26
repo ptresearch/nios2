@@ -105,10 +105,12 @@ data.
 
 ### Supported IDA Versions
 
-| Version | isSupported |
-|---------|-------------|
-| 6.9     | :white_check_mark: |
+| Version   | isSupported        |
+|-----------|--------------------|
+| 6.9       | :white_check_mark: |
 | 7.0 - 7.3 | :white_check_mark: |
+| 7.4 - 7.9 | :white_check_mark: |
+| 8.0 - 8.3 | :white_check_mark: |
 
 ## Author
 
