@@ -108,6 +108,7 @@ data.
 | Version | isSupported |
 |---------|-------------|
 | 6.9     | :white_check_mark: |
+| 7.0 - 7.3 | :white_check_mark: |
 
 ## Author
 
